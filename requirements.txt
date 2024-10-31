@@ -1,0 +1,13 @@
+pandas
+pandasgui
+matplotlib
+seaborn
+numpy
+lifelines
+scikit-learn
+scikit-survival
+scipy
+plotly
+tabulate
+ipython
+joblib
